@@ -17,3 +17,5 @@
 - node 
 - express
 - mongoose
+- API
+- JavaScript 
